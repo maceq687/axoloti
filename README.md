@@ -2,7 +2,7 @@
 custom Axoloti patches  
 Axoloti: http://www.axoloti.com/  
 Music Thing Modular __AxoControl__: https://musicthing.co.uk/pages/axo.html  
-Hohum Lab __Axoctrl__: http://shop.hohumlab.com/projects-axoctrl/
+Hohum Lab __Axoctrl__: https://hohumlab.com/product/axoctrl/
 
 Find out more about these patches:
 * trice.axp: - designed to work with Bass Station 2 over MIDI - http://community.axoloti.com/t/axoloti-bass-patch/1627
