@@ -11,3 +11,4 @@ Find out more about these patches:
 * Axoctrl_Pages_V1.0.axp - designed to work with Hohum Lab __Axoctrl__ - http://community.axoloti.com/t/multiple-pages-of-parameters-for-axoctrl/6572
 * Axoctrl_Complex_Poly_V1.6.rar - designed to work with Hohum Lab __Axoctrl__ - http://community.axoloti.com/t/259-inspired-polyphonic-synthesizer/2837/39
 * harmonizer.axp - designed to work with Hohum Lab __Axoctrl__ - http://community.axoloti.com/t/eml-poly-box-emulation/494/2
+* chord_box.axp - designed to work with Hohum Lab __Axoctrl__ - http://community.axoloti.com/t/chord-box-harmonizer/7928
