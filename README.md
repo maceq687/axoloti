@@ -2,7 +2,9 @@
 custom Axoloti patches  
 Axoloti: http://www.axoloti.com/  
 Music Thing Modular __AxoControl__: https://www.musicthing.co.uk/retired/axocontrol.html  
-Hohum Lab __Axoctrl__: https://hohumlab.com/product/axoctrl/
+<img src="images/axoloti_900.png" width="450" height="156">  
+Hohum Lab __Axoctrl__: https://hohumlab.com/product/axoctrl/  
+<img src="images/axoctrl-board-config-1.jpg" width="420" height="290">  
 
 ## Find out more about these patches:
 
@@ -146,7 +148,8 @@ http://community.axoloti.com/t/259-inspired-polyphonic-synthesizer/2837/39
 
 ### harmonizer.axp
 
-My take on emulating EML Poly-Box. It's a harmonizer that is capable of pitch shifting the incoming audio according to the MIDI note input. Designed to work with Hohum Lab __Axoctrl__ knob/button layout.  
+My take on emulating EML Poly-Box. It's a harmonizer that is capable of pitch shifting the incoming audio according to the MIDI note input. Designed to work with Hohum Lab __Axoctrl__ knob/button layout. 4 voice polyphony (77% DSP used).  
+<img src="images/axoctrl-harmonizer.jpg" width="382" height="238">  
 It is designed to work in a similar fashion to how the Poly-Box worked:
 
 * input continues tone (drone) in to the axoloti left audio in
@@ -171,6 +174,7 @@ Harmonizer video demos:
 ### chord_box.axp
 
 Another harmonizer but this one is capable of pitch shifting the incoming audio into a 7th chord according to the MIDI note input. The chord is built on the played note. You can select scale (major/minor) and tonic. This is another take on my previous project Poly-Box emulation. It is designed to work with Hohum Lab __Axoctrl__ knob/button layout. Monopohnic note input (70% DSP used).  
+<img src="images/axoctrl-poly_box.jpg" width="383" height="239">  
 How to make it work:
 
 * feed continues tone (drone) in to the axoloti left audio in
