@@ -1,9 +1,10 @@
 # axoloti
 custom Axoloti patches  
-Axoloti: http://www.axoloti.com/  
-Music Thing Modular __AxoControl__: https://www.musicthing.co.uk/retired/axocontrol.html  
+Axoloti core board: http://www.axoloti.com/  
+<img src="images/axoloti-schematic.png" width="485" height="183">  
+Music Thing Modular __AxoControl__ control board: https://www.musicthing.co.uk/retired/axocontrol.html  
 <img src="images/axoloti_900.png" width="450" height="156">  
-Hohum Lab __Axoctrl__: https://hohumlab.com/product/axoctrl/  
+Hohum Lab __Axoctrl__ control board: https://hohumlab.com/product/axoctrl/  
 <img src="images/axoctrl-board-config-1.jpg" width="420" height="290">  
 
 ## Find out more about these patches:
