@@ -186,3 +186,6 @@ How to make it work:
 * play on your keyboard
 
 http://community.axoloti.com/t/chord-box-harmonizer/7928
+
+Chord Box vide demo:  
+[![Chord Box patch video thumbnail](http://i3.ytimg.com/vi/qXZP7jMQRa0/hqdefault.jpg)](https://www.youtube.com/watch?v=qXZP7jMQRa0 "Axoloti chord box with Dark Energy 2 and Touche")  
